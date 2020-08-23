@@ -1,0 +1,51 @@
+body{
+    padding-top: 20px;
+    background-color:#404142;
+}
+
+.pad{
+    padding-top: 20px;
+}
+
+.sidebar li{
+    padding: 20px;
+    margin-right: 50px;
+}
+.sidebar a{
+    color: white;
+    text-decoration: none;
+}
+
+.bg{
+    background-color:#282929;
+    
+}
+h1{
+    color:rgb(248, 246, 242);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+}
+.box-blue{
+    height:200px;
+    background:linear-gradient(to bottom right,#0F2027,#203A43,#2C5364);    
+    border-radius: 10px;
+    margin-right: 20px;
+    
+    
+
+}
+
+.harish{
+    text-align: center;
+    margin-top: 70px;
+    text-decoration:yellow;
+
+}
+
+.lor{
+    text-align: center;
+    color: sandybrown;
+    margin-top: 25px;
+
+}
